@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Serintec",
-    "slug": "Serintec",
+    "name": "serintec",
+    "slug": "serintec",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
