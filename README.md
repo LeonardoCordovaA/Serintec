@@ -1,1 +1,2 @@
 # Serintec
+Aplicacion  para aseguradora
